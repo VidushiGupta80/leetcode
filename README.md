@@ -1,6 +1,8 @@
 # leetcode
 LeetCode solutions submitted by me [https://leetcode.com/guptavidushi/]
 Problem links:
+
+-[n queens ii](https://leetcode.com/problems/n-queens-ii/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens-ii.cpp)
 - [n queens](https://leetcode.com/problems/n-queens/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens.cpp)
 - [01 Matrix](https://leetcode.com/problems/01-matrix/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/01-matrix.cpp)
 - [3Sum](https://leetcode.com/problems/3sum/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/3sum.cpp)
