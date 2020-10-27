@@ -2,6 +2,7 @@
 LeetCode solutions submitted by me [https://leetcode.com/guptavidushi/]
 Problem links:
 
+- [queens that can attack the king](https://leetcode.com/problems/queens-that-can-attack-the-king/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/queens-that-can-attack-the-king.cpp)
 - [n queens ii](https://leetcode.com/problems/n-queens-ii/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens-ii.cpp)
 - [n queens](https://leetcode.com/problems/n-queens/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens.cpp)
 - [01 Matrix](https://leetcode.com/problems/01-matrix/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/01-matrix.cpp)
