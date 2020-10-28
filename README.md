@@ -2,11 +2,11 @@
 LeetCode solutions submitted by me [https://leetcode.com/guptavidushi/]
 Problem links:
 
-- [knight dialer](https://leetcode.com/problems/knight-dialer/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/knight-dialer.cpp)
-- [knight-probability-in-chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/knight-probability-in-chessboard.cpp)
-- [queens that can attack the king](https://leetcode.com/problems/queens-that-can-attack-the-king/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/queens-that-can-attack-the-king.cpp)
-- [n queens ii](https://leetcode.com/problems/n-queens-ii/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens-ii.cpp)
-- [n queens](https://leetcode.com/problems/n-queens/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens.cpp)
+- [Knight Dialer](https://leetcode.com/problems/knight-dialer/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/knight-dialer.cpp)
+- [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/knight-probability-in-chessboard.cpp)
+- [Queens that can attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/queens-that-can-attack-the-king.cpp)
+- [N Queens II](https://leetcode.com/problems/n-queens-ii/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens-ii.cpp)
+- [N Queens](https://leetcode.com/problems/n-queens/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/n-queens.cpp)
 - [01 Matrix](https://leetcode.com/problems/01-matrix/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/01-matrix.cpp)
 - [3Sum](https://leetcode.com/problems/3sum/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/3sum.cpp)
 - [Accounts Merge](https://leetcode.com/problems/accounts-merge/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/accounts-merge.cpp)
@@ -161,7 +161,7 @@ Problem links:
 - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/possible-bipartition.cpp)
 - [Power of Four](https://leetcode.com/problems/power-of-four/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/power-of-four.cpp)
 - [Power of Two](https://leetcode.com/problems/power-of-two/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/power-of-two.cpp)
-[Pow(x, n), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/powx-n.cpp)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/powx-n.cpp)
 - [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/prime-arrangements.cpp)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/product-of-array-except-self.cpp)
 - [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/), [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/queue-reconstruction-by-height.cpp)
