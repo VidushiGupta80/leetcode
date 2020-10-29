@@ -7,6 +7,7 @@ LeetCode solutions submitted by me. ([Profile Link](https://leetcode.com/guptavi
 
 ## Problem links:
 
+- [Course schedule iv](https://leetcode.com/problems/course-schedule-iv/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule-iv.cpp)
 - [Minimum difficulty of a job schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-difficulty-of-a-job-schedule.cpp)
 - [Knight Dialer](https://leetcode.com/problems/knight-dialer/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/knight-dialer.cpp)
 - [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/knight-probability-in-chessboard.cpp)
