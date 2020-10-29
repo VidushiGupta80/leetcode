@@ -7,6 +7,7 @@ LeetCode solutions submitted by me. ([Profile Link](https://leetcode.com/guptavi
 
 ## Problem links:
 
+- [Course schedule](https://leetcode.com/problems/course-schedule/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule.cpp)
 - [Course schedule iii](https://leetcode.com/problems/course-schedule-iii/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule-iii.cpp)
 - [Course schedule iv](https://leetcode.com/problems/course-schedule-iv/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule-iv.cpp)
 - [Minimum difficulty of a job schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-difficulty-of-a-job-schedule.cpp)
