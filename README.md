@@ -7,6 +7,7 @@ LeetCode solutions submitted by me. ([Profile Link](https://leetcode.com/guptavi
 
 ## Problem links:
 
+- [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/count-vowels-permutation.cpp)
 - [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-distance-to-type-a-word-using-two-fingers.cpp)
 - [Profitable schemes](https://leetcode.com/problems/profitable-schemes/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/profitable-schemes.cpp)
 - [Maximum profit in job scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/maximum-profit-in-job-scheduling.cpp)
