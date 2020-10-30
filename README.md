@@ -7,8 +7,9 @@ LeetCode solutions submitted by me. ([Profile Link](https://leetcode.com/guptavi
 
 ## Problem links:
 
-- [Profitable schemes][https://leetcode.com/problems/profitable-schemes/] -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/profitable-schemes.cpp)
-- [maximum profit in job scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/maximum-profit-in-job-scheduling.cpp)
+- [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-distance-to-type-a-word-using-two-fingers.cpp)
+- [Profitable schemes](https://leetcode.com/problems/profitable-schemes/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/profitable-schemes.cpp)
+- [Maximum profit in job scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/maximum-profit-in-job-scheduling.cpp)
 - [Course schedule](https://leetcode.com/problems/course-schedule/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule.cpp)
 - [Course schedule iii](https://leetcode.com/problems/course-schedule-iii/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule-iii.cpp)
 - [Course schedule iv](https://leetcode.com/problems/course-schedule-iv/) -> [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/course-schedule-iv.cpp)
