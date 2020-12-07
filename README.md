@@ -11,6 +11,7 @@ Problems solved count: 231
 
 | Question at LeetCode [linked] | Solution in repository [linked] |
 | :--- | :---: |
+| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solutuon] (https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-depth-of-binary-tree.cpp) |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/balanced-binary-tree.cpp) |
 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/convert-sorted-array-to-binary-search-tree.cpp) |
 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/count-vowels-permutation.cpp) |
