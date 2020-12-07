@@ -9,6 +9,7 @@ My LeetCode solution submissions. ([Profile Link](https://leetcode.com/guptavidu
 
 | Question at LeetCode [linked] | Solution in repository [linked] |
 | :--- | :---: |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution]((https://github.com/VidushiGupta80/leetcode/blob/main/solutions/convert-sorted-array-to-binary-search-tree.cpp) |
 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/count-vowels-permutation.cpp) |
 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-distance-to-type-a-word-using-two-fingers.cpp) |
 | [Profitable schemes](https://leetcode.com/problems/profitable-schemes/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/profitable-schemes.cpp) |
