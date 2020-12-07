@@ -2,6 +2,8 @@
 
 My LeetCode solution submissions. ([Profile Link](https://leetcode.com/guptavidushi/))
 
+Problems solved count: 231
+
 ## Format:
  Row: | Question Link | Solution in repository |
 
