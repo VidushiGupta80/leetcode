@@ -11,6 +11,7 @@ Problems solved count: 231
 
 | Question at LeetCode [linked] | Solution in repository [linked] |
 | :--- | :---: |
+| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/binary-tree-maximum-path-sum.cpp) |
 | [Path sum](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/path-sum.cpp) |
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solutuon] (https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-depth-of-binary-tree.cpp) |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/balanced-binary-tree.cpp) |
