@@ -15,7 +15,7 @@ Problems solved count: 231
 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/populating-next-right-pointers-in-each-node.cpp) |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/binary-tree-maximum-path-sum.cpp) |
 | [Path sum](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/path-sum.cpp) |
-| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solutuon] (https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-depth-of-binary-tree.cpp) |
+| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution] (https://github.com/VidushiGupta80/leetcode/blob/main/solutions/minimum-depth-of-binary-tree.cpp) |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/balanced-binary-tree.cpp) |
 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/convert-sorted-array-to-binary-search-tree.cpp) |
 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/count-vowels-permutation.cpp) |
