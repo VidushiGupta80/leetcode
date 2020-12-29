@@ -11,6 +11,7 @@ Problems solved count: 231
 
 | Question at LeetCode [linked] | Solution in repository [linked] |
 | :--- | :---: |
+| [Online stock span](https://leetcode.com/problems/online-stock-span/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/online-stock-span.cpp) |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/trapping-rain-water.cpp) |
 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/populating-next-right-pointers-in-each-node.cpp) |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/VidushiGupta80/leetcode/blob/main/solutions/binary-tree-maximum-path-sum.cpp) |
